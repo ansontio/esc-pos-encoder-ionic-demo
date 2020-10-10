@@ -1,5 +1,7 @@
 {
   "name": "EscPosDemo",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
