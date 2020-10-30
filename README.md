@@ -6,12 +6,15 @@ A simple ionic 5 demo application to show printing capability into thermal print
 
 - Only works on Android / iOS device
 - Tested on Epson thermal printer TM-T82
-- Only works on ethernet connection
+- Works on:
+  - Bluetooth connection
+  - Ethernet connection
 
 ## Library
 
 - [ESC Pos Encoder Ionic ](https://github.com/Ans0n-Ti0/EscPosEncoder)
 - [Cordova Socket TCP/IP](https://github.com/blocshop/sockets-for-cordova)
+- [Bluetooth Serial](https://ionicframework.com/docs/native/bluetooth-serial)
 
 ## Guide
 
